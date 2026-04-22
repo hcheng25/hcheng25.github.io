@@ -1,6 +1,6 @@
 # Hello!
 
-My name is Horace Cheng, and I'm a Masters in Health Data Science student at UCSF. My work includes statistical analyses and exploratory unsupervised learning primarily in R. My current projects are focused on esophageal cancer in Tanzania and exploratory clustering of TCR clone expansion trends, and I have also worked on a project focusing on the use of unsupervised learning to cluster prostate cancer patients as well as on statistical analysis in a project focused on depressive and anxious symptoms in prostate cancer patients.
+My name is Horace Cheng, and I'm a Masters in Health Data Science student at UCSF. My work includes statistical analyses and exploratory unsupervised learning primarily in R. My current projects are focused on esophageal cancer in Tanzania and exploratory clustering of TCR clone expansion trends. I have also worked on a project focusing on the use of unsupervised learning to cluster prostate cancer patients, and I have worked on statistical analysis in a project focused on depressive and anxious symptoms in prostate cancer patients.
 
 ## Projects
 
