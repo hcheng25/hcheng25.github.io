@@ -12,6 +12,10 @@ A secondary study based on previous case-control data on patients in Tanzania wa
 
 [Project Repository](https://github.com/hcheng25/ESCC)
 
+### Exploratory TCR Clone Clustering
+
+[Project Repository](https://github.com/hcheng25/tcr-clustering)
+
 ## Experience
 ### Research Intern — _UCSF, San Francisco, CA_
 
