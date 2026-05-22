@@ -6,11 +6,25 @@ My name is Horace Cheng, and I'm a Masters in Health Data Science student at UCS
 
 ### Region-specific Risk Factors for Esophageal Cancer within Tanzania
 
-A secondary study based on previous case-control data on patients in Tanzania was performed to examine if geographic region has a modifying effect on the associations between risk factors and esophageal cancer (EC). Approximately 900 patients matched as cases and controls were included in the study, and Lasso penalization was used to select for the most impactful variables in each zone. These variables were included in a final zone-specific multivariable logistic regression model along with age, gender, agricultural occupation, IWI, smoking status, and alcohol consumption to calculate odds ratios and examine EC risk.
+A secondary study based on previous case-control data on patients in Tanzania was performed to examine if geographic region has a modifying effect on the associations between risk factors and esophageal cancer (EC). Approximately 900 patients matched as cases and controls were included in the study, and Lasso penalization was used to select for the most impactful variables in each zone. These variables were included in a final zone-specific multivariable logistic regression model along with age, gender, agricultural occupation, IWI, smoking status, and alcohol consumption to calculate adjusted odds ratios. Risk factors identified as associated with highest risk of EC were highlighted as topics of interest for future research to aid in understanding etiology of EC in Tanzania and potentially shape region-specific health interventions.
 
 ![EC Lasso Forest Plots](images/ec_forest_plot.jpg)
 
 [Project Repository](https://github.com/hcheng25/ESCC)
+
+### GAP4 Project 8
+
+Anxious and depressive symptom scores were analyzed with respect to an exercise intervention in men with prostate cancer. Generalized linear mixed models (GLMMs) were used to account for unmeasured differences between patients based on baseline scores. GLMMs revealed that the exercise intervention was associated with a decrease in depressive symptoms over time, particularly in those with high baseline depression.
+
+![GAP4P8 dichotomized depression plots](images/marginal_means_adj_baselines_depression.png)
+
+[Project Repository](https://github.com/hcheng25/gap4-p8)
+
+### Exploratory TCR Clone Clustering
+
+Explored normalization methods and clustering algorithms for trajectories of TCR clonal expansion counts.
+
+[Project Repository](https://github.com/hcheng25/tcr-clustering)
 
 ## Experience
 ### Research Intern — _UCSF, San Francisco, CA_
